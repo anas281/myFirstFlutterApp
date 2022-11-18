@@ -6,7 +6,7 @@
 
     <groupId>>com.github.anas281</groupId>
     <artifactId>myFirstFlutterApp</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>master-SNAPSHOT</version>
     <repositories>
         <repository>
             <id>jitpack.io</id>
@@ -17,7 +17,7 @@
         <dependency>
             <groupId>com.github.anas281</groupId>
             <artifactId>myFirstFlutterApp</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>master-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>
